@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "jsx": "react-native",
+    // Other compiler options...
+  },
+  // Include other settings and include/exclude rules...
+
+
+"extends": "@tsconfig/react-native/tsconfig.json"
+}
